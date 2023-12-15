@@ -1,0 +1,17 @@
+{
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "connectedTitle": "У вас подключено",
+    "connectedDescription": "Подписки, автоплатежи и сервисы, на которые вы подписались",
+    "tariffsTitle": "Тарифы и лимиты",
+    "tariffsDescription": "Для операций в Сбербанк Онлайн",
+    "limitsTitle": "Изменить суточный лимит",
+    "limitsDescription": "На платежи и переводы",
+    "feesTitle": "Переводы без комиссии",
+    "feesDescription": "Показать остаток в этом месяце",
+    "interestsTitle": "Интересы",
+    "interestsDescription": "Мы подбираем истории и предложения по темам, которые вам нравятся",
+    "fetchError": "Произошла ошибка при загрузке данных",
+    "tariffsLimitsInformationTitle": "Информация о тарифах и лимитах",
+    "tariffsLimitsInformationDescription": "Узнать больше"
+}
